@@ -73,7 +73,7 @@ sudo setcap 'cap_net_bind_service=+ep' dns_server
 ./dns_server
 ```
 
-Create a `blocklist.txt` in the same directory:
+Create a `minDNS.block` in the same directory: (current minDNS.block has been stolen from pihole blocklist)
 ------------------
 # Example comment
 blocked.com
