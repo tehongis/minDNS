@@ -1,4 +1,4 @@
-from pprint import pprint
+/*  */
 
 f = open('minDNS.block','r')
 lines = f.readlines()
